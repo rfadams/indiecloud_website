@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Indie Cloud Blog]]></title>
-  <link href="http://www.goindiecloud.com/atom.xml" rel="self"/>
-  <link href="http://www.goindiecloud.com/"/>
-  <updated>2013-06-11T16:38:25-07:00</updated>
-  <id>http://www.goindiecloud.com/</id>
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-06-11T16:54:08-07:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Robert Adams]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test Post]]></title>
-    <link href="http://www.goindiecloud.com/blog/2013/06/11/test-post/"/>
+    <link href="http://yoursite.com/blog/2013/06/11/test-post/"/>
     <updated>2013-06-11T13:41:00-07:00</updated>
-    <id>http://www.goindiecloud.com/blog/2013/06/11/test-post</id>
+    <id>http://yoursite.com/blog/2013/06/11/test-post</id>
     <content type="html"><![CDATA[<h2>Howdy Howdy</h2>
 
 <p>  This is some bs text</p>
